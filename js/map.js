@@ -1,6 +1,6 @@
 function initMap() {
     let image = {
-        url: '../svg/marker.svg',
+        url: 'https://raw.githubusercontent.com/meluotii/36-homework/master/svg/marker.svg',
         scaledSize: new google.maps.Size(120, 120)
     }
 
